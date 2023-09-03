@@ -8,9 +8,9 @@ There is one file attached to the repository which act as a single file for the 
 
 In this file:
 
-Exploratory Data Analysis 
+✳Exploratory Data Analysis 
 
-Content Based Filtering Techniques 
+✳Content Based Filtering Techniques 
 
-Collaborative Filtering Techniques 
+✳Collaborative Filtering Techniques 
 

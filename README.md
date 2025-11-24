@@ -1,3 +1,5 @@
+<img width="909" height="631" alt="mrs" src="https://github.com/user-attachments/assets/6cbadc5e-29a8-4185-a575-a3961645069f" />
+
 # Movie-Recommendation-System-
 
 This is the main read me file which contains all the information about the porject that I have done for creating and deploying a movie recommendation system from scratch. 
